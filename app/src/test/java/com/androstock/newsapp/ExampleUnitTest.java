@@ -1,4 +1,4 @@
-package com.example.ryan.newsalulu;
+package com.androstock.newsapp;
 
 import org.junit.Test;
 
